@@ -240,7 +240,7 @@ export default function LandingPage({ onEnterApp }) {
             }}
           >
             <a
-              href="https://github.com/WalidAliAlfaid/libya-report/releases/latest/download/app-debug.apk"
+              href="https://github.com/WalidAliAlfaid/libya-report/releases/latest/download/libyareport.apk"
               download="libya-report-latest.apk"
               style={{
                 display: "inline-flex",
@@ -449,7 +449,7 @@ export default function LandingPage({ onEnterApp }) {
             </p>
             <div style={{ display: "flex", gap: 14, flexWrap: "wrap", justifyContent: "center" }}>
               <a
-                href="https://github.com/WalidAliAlfaid/libya-report/releases/latest/download/app-debug.apk"
+                href="https://github.com/WalidAliAlfaid/libya-report/releases/latest/download/libyareport.apk"
                 download="libya-report-latest.apk"
                 style={{
                   display: "inline-flex",
